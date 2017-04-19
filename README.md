@@ -21,7 +21,7 @@ The shortest common supersequence problem is to find the minimal length of a sup
 
 The shortest common supersequence of english depends on the words considered, and for this project all english words are those found in words.txt. This file was created using the wordlists american-english and british-english in /usr/share/dict. All words with uppercase or special characters were removed, so that the alphabet is a-z. 
 
-Also note that the shortest common supersequence is an NP-complete problem, so this project will have no conclusive ending. 
+Determining the length of the shortest common supersequence is an NP-complete problem, so this search should have no end. 
 
 
 
